@@ -2,9 +2,9 @@
 
 ---
 
-### Zenius
+### Week 1
 
-[Phyton](/sample_page)
+[Topic 1&2](/Untitled.ipynb)
 
 
 ---
