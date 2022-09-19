@@ -1,10 +1,11 @@
 ## Portfolio
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Portfolio created to fulfill the task of Studi Independen Zenius
 ---
 
-### Week 1
+### Topic 1 & 2 (Week #1)
 
-[Topic 1&2](/Untitled.ipynb)
+[Dummy Portfolio](/Untitled.ipynb)
 
 
 ---
