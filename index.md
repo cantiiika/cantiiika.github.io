@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-## Portfolio created to fulfill the task of Studi Independen Zenius
+#### Portfolio created to fulfill the task of Studi Independen Zenius
 ---
 
 ### Topic 1 & 2 (Week #1)
